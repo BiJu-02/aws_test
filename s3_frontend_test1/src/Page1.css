@@ -1,0 +1,13 @@
+.centered-form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 10vh; /* This ensures the form is centered vertically on the page */
+  flex-direction: column;
+  gap: 10px;
+}
+
+form {
+  width: 100%; /* Adjust the width as needed */
+  text-align: center;
+}
